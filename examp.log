@@ -1,0 +1,96 @@
+2022-06-09 17:52:49,926 INFO this is start of logg placement and screening
+2022-06-09 17:52:49,928 INFO executed susscessfully
+2022-06-09 18:26:56,454 INFO this is start of logg test and tt
+2022-06-09 18:26:56,455 INFO entered text is found
+2022-06-09 18:26:57,863 INFO executed susscessfully
+2022-06-09 18:29:12,300 INFO this is start of logg dai1 and dd
+2022-06-09 18:29:12,302 INFO executed susscessfully
+2022-06-09 18:31:35,554 INFO this is start of logg dd and dd1
+2022-06-09 18:31:35,555 INFO executed susscessfully
+2022-06-09 18:33:58,882 INFO input found
+2022-06-09 18:34:02,881 INFO this is start of logg dd1 and dd2
+2022-06-09 18:34:02,883 INFO executed susscessfully
+2022-06-09 18:34:41,658 INFO input found
+2022-06-09 18:34:44,385 INFO this is start of logg dd2 and dd3
+2022-06-09 18:34:44,387 INFO executed susscessfully
+2022-06-09 18:40:37,461 INFO executed susscessfully
+2022-06-09 18:40:46,687 INFO executed susscessfully
+2022-06-09 18:41:09,544 INFO executed susscessfully
+2022-06-09 18:41:31,485 INFO input found
+2022-06-09 18:41:34,156 INFO this is start of logg 123 and 11
+2022-06-09 18:41:34,157 INFO executed susscessfully
+2022-06-09 18:41:50,228 INFO input found
+2022-06-09 18:41:51,860 INFO this is start of logg 123 and 111
+2022-06-09 18:41:51,862 INFO executed susscessfully
+2022-06-09 18:42:11,700 INFO input found
+2022-06-09 18:42:14,819 INFO this is start of logg dai and daidai
+2022-06-09 18:42:14,820 INFO executed susscessfully
+2022-06-09 18:42:58,604 INFO input found
+2022-06-09 18:43:02,475 INFO this is start of logg dai3 and daidai3
+2022-06-09 18:43:02,477 INFO executed susscessfully
+2022-06-09 18:43:11,804 INFO input found
+2022-06-09 18:43:13,594 INFO this is start of logg 123 and 321
+2022-06-09 18:43:13,595 INFO executed susscessfully
+2022-06-09 18:50:39,342 INFO input found
+2022-06-09 18:50:41,325 INFO this is start of logg 321 and 123
+2022-06-09 18:50:41,327 INFO executed susscessfully
+2022-06-09 18:50:58,092 INFO input found
+2022-06-09 18:51:00,437 INFO this is start of logg 123 and 1234
+2022-06-09 18:51:00,439 INFO executed susscessfully
+2022-06-09 18:54:31,574 ERROR error found
+2022-06-09 18:54:31,574 ERROR exception isname 'true' is not defined
+Traceback (most recent call last):
+  File "<ipython-input-81-1fc20d9279ab>", line 6, in az
+    if check() == true:
+NameError: name 'true' is not defined
+2022-06-09 18:54:31,575 INFO not executed susscessfully
+2022-06-09 18:54:47,051 ERROR error found
+2022-06-09 18:54:47,051 ERROR exception isname 'true' is not defined
+Traceback (most recent call last):
+  File "<ipython-input-81-1fc20d9279ab>", line 6, in az
+    if check() == true:
+NameError: name 'true' is not defined
+2022-06-09 18:54:47,052 INFO not executed susscessfully
+2022-06-09 18:55:25,996 INFO input found
+2022-06-09 18:55:27,786 INFO this is start of logg 1234 and 123
+2022-06-09 18:55:27,788 INFO executed susscessfully
+2022-06-11 19:33:51,723 INFO input not found
+2022-06-11 19:34:02,751 INFO input not found
+2022-06-11 19:34:30,845 INFO parent_A executing
+2022-06-11 19:34:30,845 INFO parent_B executing
+2022-06-11 19:34:30,845 INFO child of parent_A and parent_B executing
+2022-06-11 19:34:30,845 INFO child class parent_C executing
+2022-06-11 19:35:05,612 INFO parent building class and its methods were executing
+2022-06-11 19:35:05,612 INFO child class first_flr and its methods were executing
+2022-06-11 19:35:05,612 INFO child class second_flr, parent classes (first_flr, building) and its methods were executing
+2022-06-11 19:57:37,913 INFO input found
+2022-06-11 19:57:44,548 INFO this is start of logg dai and daai
+2022-06-11 19:58:22,005 INFO input not found
+2022-06-11 19:58:34,798 INFO input found
+2022-06-11 19:58:38,812 INFO this is start of logg daaidaai3 and dai 
+2022-06-11 19:59:25,756 INFO input found
+2022-06-11 19:59:30,699 INFO this is start of logg kmjkkkk and kmj
+2022-06-11 20:00:06,672 INFO input found
+2022-06-11 20:00:09,563 INFO this is start of logg kmj  and kmj2
+2022-06-11 20:00:23,732 INFO input found
+2022-06-11 20:00:26,027 INFO this is start of logg kmj2 and kmj
+2022-06-11 20:00:38,178 INFO input found
+2022-06-11 20:00:40,971 INFO this is start of logg kmj and kmj2
+2022-06-11 20:00:58,765 INFO input not found
+2022-06-11 20:01:08,899 INFO input found
+2022-06-11 20:01:11,122 INFO this is start of logg 123 and 321
+2022-06-11 20:01:47,352 INFO input found
+2022-06-11 20:01:50,458 INFO this is start of logg kmj and kmj1
+2022-06-11 20:02:38,039 INFO input not found
+2022-06-11 20:08:09,038 INFO input found
+2022-06-11 20:08:12,749 INFO this is start of logg kmj and kmjj
+2022-06-11 20:09:40,582 INFO input found
+2022-06-11 20:09:43,404 INFO this is start of logg kmj and kmm
+2022-06-12 17:50:53,455 INFO input found
+2022-06-12 17:50:55,943 INFO this is start of logg kmm and kmj
+2022-06-12 17:54:57,474 INFO input not found
+2022-06-12 17:55:03,572 INFO input not found
+2022-06-12 17:56:06,845 INFO input found
+2022-06-12 17:56:10,811 INFO this is start of logg placement and screening
+2022-06-12 17:57:35,507 INFO input found
+2022-06-12 17:57:39,962 INFO this is start of logg screening and placement

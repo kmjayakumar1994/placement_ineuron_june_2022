@@ -1,0 +1,6 @@
+2022-06-11 10:20:26,032 INFO parent building class and its methods were executing
+2022-06-11 10:20:26,032 INFO child class first_flr and its methods were executing
+2022-06-11 10:20:26,032 INFO child class second_flr, parent classes (first_flr, building) and its methods were executing
+2022-06-11 10:22:16,093 INFO parent building class and its methods were executing
+2022-06-11 10:22:16,093 INFO child class first_flr and its methods were executing
+2022-06-11 10:22:16,093 INFO child class second_flr, parent classes (first_flr, building) and its methods were executing

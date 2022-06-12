@@ -1,0 +1,13 @@
+2022-06-11 10:13:28,927 INFO parent_A executing
+2022-06-11 10:13:28,927 INFO parent_B executing
+2022-06-11 10:13:28,928 INFO child of parent_A and parent_B executing
+2022-06-11 10:13:28,928 INFO child class parent_C executing
+2022-06-11 10:18:06,458 INFO parent building class and its methods were executing
+2022-06-11 10:18:06,458 INFO child class first_flr and its methods were executing
+2022-06-11 10:18:06,458 INFO child class second_flr, parent classes (first_flr, building) and its methods were executing
+2022-06-11 10:18:44,163 INFO parent building class and its methods were executing
+2022-06-11 10:18:44,163 INFO child class first_flr and its methods were executing
+2022-06-11 10:18:44,163 INFO child class second_flr, parent classes (first_flr, building) and its methods were executing
+2022-06-11 10:19:38,063 INFO parent building class and its methods were executing
+2022-06-11 10:19:38,063 INFO child class first_flr and its methods were executing
+2022-06-11 10:19:38,063 INFO child class second_flr, parent classes (first_flr, building) and its methods were executing
